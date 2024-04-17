@@ -20,21 +20,21 @@ It continues until the user correctly guesses the number and then displays the n
 
 ## Example Output
 
-Guess the number between 1 and 100: 45
+- Guess the number between 1 and 100: 45
 Too low! Try again.
-Guess the number between 1 and 100: 50
+- Guess the number between 1 and 100: 50
 Too low! Try again.
-Guess the number between 1 and 100: 60 
+- Guess the number between 1 and 100: 60 
 Too low! Try again.
-Guess the number between 1 and 100: 70
+- Guess the number between 1 and 100: 70
 Too low! Try again.
-Guess the number between 1 and 100: 80
+- Guess the number between 1 and 100: 80
 Too high! Try again.
-Guess the number between 1 and 100: 72
+- Guess the number between 1 and 100: 72
 Too low! Try again.
-Guess the number between 1 and 100: 71 
+- Guess the number between 1 and 100: 71 
 Too low! Try again.
-Guess the number between 1 and 100: 73
+- Guess the number between 1 and 100: 73
 Congratulations! You guessed the number 73 correctly in 8 attempts.
 
 ## Note
